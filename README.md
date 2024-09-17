@@ -19,7 +19,7 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png" alt="Twitter de alex" height="23px" width="28px" />
   </a>
     <span style="width: 8px;"> </span>
-  <a href="https://www.linkedin.com/in/alex-herbas-leiva-6b85672b0/" target="blank">
+  <a href="https://www.linkedin.com/in/alexherbasleiva" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="Twitter de alex" height="23px" width="70px" />
   </a>
 </p>
